@@ -1,0 +1,12 @@
+D:\Arbete\Check_Andelse\Check_Andelse\bin\Release\Check_Andelse.exe.config
+D:\Arbete\Check_Andelse\Check_Andelse\bin\Release\Check_Andelse.exe
+D:\Arbete\Check_Andelse\Check_Andelse\bin\Release\Check_Andelse.pdb
+D:\Arbete\Check_Andelse\Check_Andelse\bin\Release\ClassLibrary_MAH1.dll
+D:\Arbete\Check_Andelse\Check_Andelse\bin\Release\ClassLibrary_MAH1.pdb
+D:\Arbete\Check_Andelse\Check_Andelse\obj\Release\Check_Andelse.Form1.resources
+D:\Arbete\Check_Andelse\Check_Andelse\obj\Release\Check_Andelse.Properties.Resources.resources
+D:\Arbete\Check_Andelse\Check_Andelse\obj\Release\Check_Andelse.csproj.GenerateResource.cache
+D:\Arbete\Check_Andelse\Check_Andelse\obj\Release\Check_Andelse.csproj.CoreCompileInputs.cache
+D:\Arbete\Check_Andelse\Check_Andelse\obj\Release\Check_Andelse.csproj.CopyComplete
+D:\Arbete\Check_Andelse\Check_Andelse\obj\Release\Check_Andelse.exe
+D:\Arbete\Check_Andelse\Check_Andelse\obj\Release\Check_Andelse.pdb
